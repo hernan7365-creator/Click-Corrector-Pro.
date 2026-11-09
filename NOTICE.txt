@@ -1,0 +1,5 @@
+This prototype uses the general Geode hook pattern demonstrated by the
+MIT-licensed public project Fail-Safe/gd-no-clip. The code in this archive
+was independently written for this prototype; consult the upstream project
+for its own source and license:
+https://github.com/Fail-Safe/gd-no-clip
